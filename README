@@ -1,0 +1,17 @@
+*README*
+Modified: 21 Mar 2012
+Author: Grammaticus
+
+Included Files:
+main.py - methods for getting and outputting data (including formatting)
+ship.py - methods for calculating things relevant to the ship
+				(gamma and proper time)
+terra.py - methods for calculating things relevant to Terra
+				(Terra time, distance, velocity)
+
+To Run:
+
+Linux:
+	~/AtomicRocket-Python/ $> python main.py
+
+
